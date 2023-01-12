@@ -20,7 +20,7 @@ Step 7 - Set the Function to Execute field to "cloudAPI"
 
 Step 8 - Change the variables in the code called:
 
-# Variables to be changed on index.js
+## Variables to be changed on index.js
 - PROJECT_ID (the project ID found on your Dialogflow's agent settings page)
 - WHATSAPP_TOKEN (your WhatsApp token value, found on the Meta Developer page for the app)
 - VERIFY_TOKEN (set by you on the WhatsApp Webhook Configuration)
